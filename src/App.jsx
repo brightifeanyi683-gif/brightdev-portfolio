@@ -40,7 +40,7 @@ const projects = [
     links: [
       {
         label: "Live Website",
-        href: "https://bright-dev-personal-portfolio.netlify.app/",
+        href: "https://brightdev-portfolio.netlify.app/",
       },
     ],
   },
