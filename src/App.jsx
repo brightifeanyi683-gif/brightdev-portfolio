@@ -62,7 +62,7 @@ const projects = [
     description:
       "A fashion website designed to showcase men's clothing collections and connect customers with the boutique.",
     tags: ["JavaScript", "Web Design", "Fashion"],
-    links: [{ label: "View Project", href: "#contact" }],
+    links: [{ label: "View Project", href: "https://stevboutique.com/" }],
   },
   {
     number: "06",
@@ -90,7 +90,7 @@ const projects = [
     links: [
       {
         label: "Visit Live Website",
-        href: "https://aurelmotors.netlify.app/",
+        href: "https://aurelmotors.vercel.app/",
       },
     ],
   },
@@ -105,7 +105,7 @@ const projects = [
     links: [
       {
         label: "Visit Live Website",
-        href: "https://chophouse-nigeria.netlify.app/",
+        href: "https://chophouse-coral.vercel.app/",
       },
     ],
   },
